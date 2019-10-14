@@ -6,9 +6,6 @@
 
 ```shell
 git config --global user.name [用户名]
-```
-
-```shell
 git config --global user.email [用户邮箱]
 ```
 
