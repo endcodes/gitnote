@@ -49,3 +49,13 @@ git remote add origin [远程仓库地址]
 git push -u origin [分支名]
 ```
 
+
+
+## git问题汇总
+
+##### git中文文件名乱码
+
+```shell
+git config --global core.quotepath false
+```
+
