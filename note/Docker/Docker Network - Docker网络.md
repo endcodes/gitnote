@@ -2,9 +2,8 @@
 
 ## 查看docker网络列表
 
-列出所有docker网络的网络名称
-
 ```shell
+# 列出所有docker网络的网络名称
 docker network ls
 ```
 
